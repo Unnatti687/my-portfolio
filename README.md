@@ -15,6 +15,10 @@ A bespoke, editorial-style personal portfolio designed by an aspiring Cloud & De
 - **HTML5:** Semantic document structure
 - **CSS3:** Custom properties (variables), Grid, Flexbox, Keyframe animations
 - **JavaScript (Vanilla):** DOM manipulation, Intersection Observer API
+- ## Technologies Used
+- Amazon S3
+- Amazon CloudFront
+- Git & GitHub
 
 ## Folder Structure
 
