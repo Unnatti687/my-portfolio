@@ -1,6 +1,6 @@
-# Unnatti Dixit - Premium Personal Portfolio
+# Unnatti Dixit - Portfolio
 
-A luxury, editorial-style personal portfolio designed for an aspiring Cloud & DevOps Engineer. This project eschews generic developer templates in favor of a clean, sophisticated, and memorable aesthetic reminiscent of high-end design portfolios. Built from scratch with semantic HTML, CSS (utilizing modern Grid and Flexbox), and Vanilla JavaScript.
+A bespoke, editorial-style personal portfolio designed by an aspiring Cloud & DevOps Engineer. This project eschews generic developer templates in favor of a clean, sophisticated, and memorable aesthetic reminiscent of high-end design portfolios. Built from scratch with semantic HTML, CSS (utilizing modern Grid and Flexbox), and Vanilla JavaScript.
 
 ## Features
 
