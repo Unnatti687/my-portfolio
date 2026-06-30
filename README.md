@@ -14,6 +14,8 @@
 
 - ☁️ **AWS CloudFront:** https://d26vr9h5ujsh9h.cloudfront.net
 - 🐳 **Amazon EC2 + Docker:** Deployed Successfully
+- ☁️ AWS S3 Static Website
+http://leisha-portfolio.s3-website.ap-south-1.amazonaws.com
 
 ##  ✨ Features
 
